@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Rchampz
+- 👋 Hi, I’m Rifai Chamzah
 - 👀 I’m interested in automation, phyton, sql, mathlab
+- 🌱 I have work experience at engineering field for oil and gas industry
 - 🌱 I’m currently learning phyton
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m love programming but programming doesn't love me back 
 - 📫 How to reach me rifaichamzah@gmail.com
 
 <!---
