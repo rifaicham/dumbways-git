@@ -3,7 +3,7 @@
 - 🌱 I have work experience at engineering field for oil and gas industry
 - 🌱 I’m currently learning phyton
 - 💞️ I love programming but programming doesn't love me back 
-- 📫 How to reach me rifaichamzah@gmail.com
+- 📫 reach me at rifaichamzah@gmail.com
 
 <!---
 Rchampz/Rchampz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
